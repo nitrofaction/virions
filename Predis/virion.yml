@@ -1,0 +1,5 @@
+name: Predis
+author: Predis
+antigen: Predis
+version: 4.0.0
+api: 5.0.0
